@@ -1,5 +1,3 @@
-Aqui está o **README** no formato Markdown:
-
 # Library Management System Simple
 
 **Library Management System Simple** é um sistema básico de gerenciamento de biblioteca, ideal para quem deseja aprender sobre o controle de empréstimos e registros de leitores e bibliotecários.
