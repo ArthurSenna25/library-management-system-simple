@@ -1,33 +1,32 @@
 # Library Management System Simple
 
-**Library Management System Simple** é um sistema básico de gerenciamento de biblioteca, ideal para quem deseja aprender sobre o controle de empréstimos e registros de leitores e bibliotecários.
+**Library Management System Simple** is a basic library management system, ideal for those who want to learn about book loan control and registering readers and librarians.
 
-## Funcionalidades
+## Features
 
-- Cadastro de **leitores** com nome, CPF, código e livros emprestados.
-- Cadastro de **bibliotecários** com nome, CPF, matrícula e turno de trabalho.
-- Registro de **empréstimos** feitos pelos bibliotecários aos leitores.
+- Register **readers** with name, CPF, code, and borrowed books.
+- Register **librarians** with name, CPF, registration number, and shift.
+- Record **loans** made by librarians to readers.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - JavaScript (ES6)
 - HTML
 - CSS
 
-## Como Executar
+## How to Run
 
-1. Clone o repositório:
+1. Clone the repository:
    ```bash
    git clone https://github.com/ArthurSenna25/library-management-system-simple.git
    ```
 
-2. Abra o arquivo `index.html` em seu navegador.
+2. Open the `index.html` file in your browser.
 
-## Contribuições
+## Contributions
 
-Sinta-se à vontade para fazer contribuições ou sugestões. Para isso, basta criar um **fork** deste repositório, realizar as alterações e enviar um **pull request**.
+Feel free to make contributions or suggestions. To do so, simply create a **fork** of this repository, make the changes, and submit a **pull request**.
 
-## Licença
+## License
 
-Este projeto está sob a licença MIT.
-```
+This project is licensed under the MIT License.
